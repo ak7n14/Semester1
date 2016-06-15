@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CardLock()
+comment1.params=card
+comment1.target=void\ swipeCard(SmartCard)
+comment2.params=
+comment2.target=SmartCard\ getLastCardSeen()
+comment3.params=
+comment3.target=boolean\ isUnlocked()
+comment4.params=
+comment4.target=void\ toggleStudentAccess()
+numComments=5

@@ -1,0 +1,12 @@
+zoo:
+enclosure:20
+enclosure:20
+steak:50
+hay:30
+enclosure:50
+hay:20
+steak:5
+celery:10
+lion:tim,0,m,10
+lion:sam,0,f,10
+playZookeeper:

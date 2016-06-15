@@ -1,0 +1,45 @@
+This programme is a simulator for a virtual Zoo
+It takes in a File as when called and performs tasks as provided specified on
+the text file
+The Programme Takes in each line of the file and splits them afert the ':'
+character and uses switch case commands to perform things specified within the
+text file provided
+Seperate Classes have been defined for the following
+1)Animals
+  a)BigCat
+    i)Tiger
+    ii)Lion
+  b)Ape
+    i)Gorilla
+    ii)Chimpanzee
+  c)Giraffe
+  d)Penguin
+  e)Elephant
+  f)Bear
+2)Enclosures
+3)FoodStore
+4)Food
+5)FoodRecord
+6)Zoo
+7)ZooConfig
+8)ZooKeeper
+  a)PlayZooKeeper
+  b)PhysioZooKeeper
+To run the programme the Zoo Class has to be run with a textfile(config file)
+The text file should create a Zoo Enclosure ZooKeepers and Animals to run
+
+The TextFile can only Add the above mentioned in them
+
+to Add something to the zoo the text file should follow the following syntax
+zoo:
+Enclosure : number(integer)
+Animal: Name,age,gender,health
+Food: amount(integer)
+
+The Above programme Has been written in Eclipse Mars for Java however should be
+run using the commandline to send in the text file
+
+The Main methode is written within the Zoo Class
+
+All Code has been Written by Anish Katariya with help from github ,stackoverflow
+Dr. Julian Radhke(Constant Moral Support) and Fraser Corssman(Ideas for FoodStore Class)

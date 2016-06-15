@@ -1,0 +1,12 @@
+By what initials was Franklin Roosevelt better known?,FDR,true
+Which number president was Franklin Roosevelt?,32,true
+Which state was Franklin Roosevelt born in?,1929,false
+In which year did Roosevelt become Governor of New York?,1929,true
+What was the name of Franklin Roosevelt's wife?,Elenaor,false
+How many children did Franklin Roosevelt have?,6,true
+From which university did Franklin Roosevelt graduate with an A.B in history?,Harvard,true
+What was the first name of Franklin Roosevelt's 5th cousin, who was also President?,Theodore,true
+Which disease is believed to be the causes of Franklin Roosevelt's paralysis?,polio,false
+At what age did Franklin Roosevelt die?,69,false
+What is the cube root of 343?,7,true
+User's score: 7, No. of questions: 11, Percentage correct: 63.64%
